@@ -16,6 +16,7 @@ public class Main {
 		curso2.setDescricao("descrição curso Spring");
 		curso2.setCargaHoraria(6);
 	
+
 		Mentoria mentoria1 = new Mentoria();
 		mentoria1.setTitulo("mentoria java");
 		mentoria1.setDescricao("descrição mentoria java");
